@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.titulo{
+    margin-left: 10px;
+    margin-bottom: -5px;
+  
+   
+}
+
+.h3{
+    margin-top: 10px;
+    list-style: none;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    
+   
+}
+.caja{
+    
+    font-weight: bold;
+    width: 190px;
+    margin: 10px;
+    margin-bottom: 15px;
+  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+  
+}
+
+.fondo{
+    background-color: #8C7B8B;
+    padding-top: 10px;
+   
+}
+.contenedor {
+    display: flex;
+    text-align: end;
+    justify-content: end;
+
+}
+.contenedor a{
+    list-style: none;
+    margin: 1.5vw;
+    transition: all ease;
+
+}
+.contenedor a:hover{
+   transform: scale(1.2);
+   background-color: #F2DFF1;
+   border-radius: 40px;
+
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+.h2{
+   margin-top:-90px;
+   font-family: 'Dancing Script', cursive;
+   font-size: 60PX;
+}
+
+.p{
+    color:black;
+    display: flex;
+    justify-content: center;
+
+   
+}
+.p p{
+    margin-bottom: 20px;
+
+}
+
